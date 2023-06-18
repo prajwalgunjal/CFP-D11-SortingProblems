@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\bin\Debug\net6.0\SortingProblem.exe
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\bin\Debug\net6.0\SortingProblem.deps.json
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\bin\Debug\net6.0\SortingProblem.runtimeconfig.json
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\bin\Debug\net6.0\SortingProblem.dll
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\bin\Debug\net6.0\SortingProblem.pdb
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.AssemblyInfo.cs
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.dll
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\refint\SortingProblem.dll
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.pdb
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\SortingProblem.genruntimeconfig.cache
+C:\Users\prajw\source\repos\SortingProblem\SortingProblem\obj\Debug\net6.0\ref\SortingProblem.dll
